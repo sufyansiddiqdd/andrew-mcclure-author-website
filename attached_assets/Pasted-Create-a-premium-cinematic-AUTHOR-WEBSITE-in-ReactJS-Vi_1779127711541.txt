@@ -1,0 +1,294 @@
+Create a premium cinematic AUTHOR WEBSITE in ReactJS + Vite using Tailwind CSS and Framer Motion.
+
+REFERENCE WEBSITE:
+https://kitpro.site/laluna/?storefront=envato-elements
+
+IMPORTANT CONCEPT:
+This website is NOT a romantic love website.
+This website represents the emotional conflict between LOVE and HATE — light vs darkness, peace vs anger, passion vs pain.
+
+The design should feel:
+- Emotional
+- Dark elegant
+- Artistic
+- Intense
+- Cinematic
+- Mysterious
+- Powerful
+- Dramatic
+- Modern
+- Luxury
+
+DO NOT make the website fully romantic or soft.
+The UI should balance BOTH emotions:
+- Warm love energy
+- Dark hate energy
+
+The website should visually show CONTRAST between:
+- Beige warmth vs dark red aggression
+- Soft light vs dark shadows
+- Emotional calm vs emotional chaos
+
+USE MY ATTACHED IMAGES:
+Use the uploaded Love & Hate book cover images throughout the website:
+- Hero banners
+- Book showcase sections
+- Background overlays
+- About book page
+- Review banners
+- Split-screen sections
+
+Also use the uploaded beige and dark red colors as the MAIN theme colors.
+
+MAIN COLOR PALETTE:
+Primary Beige: #EDE8D0
+Dark Blood Red: #6B000F
+Wine Red: #7A0018
+Dark Shadow Brown: #1E1515
+Muted Gold: #C9A227
+Soft Beige Text: #F5F0E6
+Dark Text: #1A1A1A
+
+IMPORTANT DESIGN RULES:
+- Beige color MUST be clearly visible throughout the website
+- Do NOT create only dark red sections
+- Balance beige and dark red equally
+- Use split gradients between beige and red
+- Use cinematic contrast layouts
+- Avoid pink romantic themes
+- Avoid bright colorful themes
+- Avoid fully black backgrounds
+- Use deep cinematic gradients instead
+
+VISUAL STYLE:
+The website should feel like:
+“Two emotions colliding inside one cinematic experience.”
+
+DESIGN DIRECTION:
+- Split-tone layouts
+- Emotional contrast sections
+- Half light / half dark banners
+- Cinematic storytelling
+- Elegant luxury UI
+- Dramatic visual atmosphere
+- Soft warm glows on one side
+- Dark smoky effects on the other side
+
+BACKGROUND EFFECTS:
+Add premium cinematic effects:
+- Floating dust particles
+- Smoke/fog overlays
+- Moving gradient backgrounds
+- Warm beige glow effects
+- Dark red cinematic shadows
+- Light streak animations
+- Smooth cinematic blur
+- Floating ember particles
+- Subtle grain texture
+- Soft spotlight lighting
+
+TYPOGRAPHY:
+Use elegant premium fonts:
+- Headings: "Cormorant Garamond" or "Playfair Display"
+- Body: "Inter" or "Manrope"
+- Quotes: "Cinzel"
+
+Typography should feel:
+- Artistic
+- Dramatic
+- Emotional
+- Elegant
+- Cinematic
+
+WEBSITE PAGES:
+
+1. HOME PAGE
+
+HERO SECTION:
+Create a FULLSCREEN split-style cinematic hero section.
+
+LEFT SIDE:
+- Warm beige lighting
+- Soft emotional atmosphere
+- Elegant typography
+- Calm cinematic overlays
+
+RIGHT SIDE:
+- Dark red shadows
+- Smoky effects
+- Intense dramatic atmosphere
+- Dark emotional overlays
+
+Use the uploaded Love & Hate cover image as the main banner inspiration.
+
+Add:
+- Smooth zoom animation
+- Floating particles
+- Cinematic text reveal
+- Parallax movement
+- Split-color gradient overlays
+- Smooth transitions
+
+Hero Heading Examples:
+“Where Love Meets Hate”
+“Two Emotions. One Story.”
+“Passion & Destruction.”
+“Beauty Within Chaos.”
+
+Hero content should use Lorem Ipsum placeholder text.
+
+CTA BUTTONS:
+- Explore The Book
+- Read Reviews
+- Meet The Author
+
+HOME PAGE SECTIONS:
+- Featured Book Showcase
+- Split Emotion Section
+- About The Author Preview
+- Poetry Highlights
+- Reader Reviews
+- Newsletter Section
+- Cinematic Footer
+
+FEATURED BOOK SECTIONS:
+Create dramatic alternating layouts.
+
+SECTION STYLE IDEA:
+Section One:
+- Beige background with soft glow
+- Book image on right
+- Elegant typography
+
+Section Two:
+- Dark red cinematic background
+- Smoke overlays
+- Book image on left
+- Dramatic typography
+
+Use smooth transitions between warm and dark sections.
+
+2. ABOUT THE BOOK PAGE
+
+Create a cinematic storytelling page.
+
+Include:
+- Large split-tone hero banner
+- Book synopsis section
+- Emotional quote cards
+- Light vs dark storytelling blocks
+- Dramatic image overlays
+- Floating particles
+- Smooth reveal animations
+
+Each section should visually alternate:
+- Beige/light emotion
+- Dark red/intense emotion
+
+Use Lorem Ipsum placeholder content.
+
+3. REVIEWS PAGE
+
+Create a luxurious cinematic reviews experience.
+
+Include:
+- Glassmorphism review cards
+- Dark + beige mixed backgrounds
+- Elegant hover glow effects
+- Animated testimonials slider
+- Emotional quote banners
+- Cinematic gradients
+- Floating particles
+
+4. ABOUT THE AUTHOR PAGE
+
+This page should feel artistic and personal.
+
+Include:
+- Cinematic author banner
+- Emotional storytelling layout
+- Elegant biography timeline
+- Writing inspiration section
+- Split-tone design sections
+- Smooth scroll reveal animations
+
+Use Lorem Ipsum placeholder content.
+
+5. CONTACT PAGE
+
+Create a premium cinematic contact page.
+
+Include:
+- Split beige/red background
+- Glassmorphism contact form
+- Elegant hover animations
+- Contact info cards
+- Social icons
+- Smooth glowing inputs
+- Cinematic lighting overlays
+
+Use this contact information:
+- Name: Andrew McClure
+- Website: www.Andrewpoetry.com
+- Email: andrewmcclure23@yahoo.com
+- Phone: 802-522-3245
+
+HEADER / NAVBAR:
+- Transparent navbar
+- Sticky blur effect on scroll
+- Beige hover effects
+- Dark red active states
+- Elegant animations
+- Premium mobile menu
+
+FOOTER:
+- Cinematic split-tone footer
+- Beige typography
+- Dark red gradients
+- Newsletter form
+- Social icons
+- Elegant layout
+
+ANIMATIONS:
+Use Framer Motion for:
+- Cinematic text reveal
+- Fade-up sections
+- Floating motion
+- Parallax movement
+- Image hover zoom
+- Smooth page transitions
+- Split background animations
+- Glow hover effects
+
+COMPONENTS:
+Create reusable React components:
+- Navbar
+- Footer
+- Hero Banner
+- Split Emotion Section
+- Book Showcase
+- Review Cards
+- Quote Cards
+- Glow Buttons
+- Floating Particles
+- Cinematic Background
+
+TECH STACK:
+- ReactJS + Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Lenis smooth scrolling
+- Fully responsive design
+
+IMPORTANT FINAL FEEL:
+The website should feel like:
+“A cinematic emotional conflict between LOVE and HATE — blending warm elegance with dark intensity in a luxury modern author experience.”
+
+VERY IMPORTANT:
+- Use MY uploaded images throughout the design
+- Use Beige (#EDE8D0) clearly in sections/backgrounds/cards
+- Balance beige and dark red equally
+- Do NOT create a fully romantic website
+- Maintain dramatic emotional contrast everywhere
+- Use Lorem Ipsum placeholder content for all text
