@@ -1,45 +1,58 @@
-# [Project name]
+# Love & Hate — Andrew McClure Author Website
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A premium cinematic author website for Andrew McClure's poetry book "Love & Hate" — a split-tone luxury experience where warm beige love and dark blood-red hate collide.
 
 ## Run & Operate
 
-- `pnpm --filter @workspace/api-server run dev` — run the API server (port 5000)
+- `pnpm --filter @workspace/author-website run dev` — run the author website (port 25515)
+- `pnpm --filter @workspace/api-server run dev` — run the API server (port 8080)
 - `pnpm run typecheck` — full typecheck across all packages
 - `pnpm run build` — typecheck + build all packages
-- `pnpm --filter @workspace/api-spec run codegen` — regenerate API hooks and Zod schemas from the OpenAPI spec
-- `pnpm --filter @workspace/db run push` — push DB schema changes (dev only)
-- Required env: `DATABASE_URL` — Postgres connection string
 
 ## Stack
 
 - pnpm workspaces, Node.js 24, TypeScript 5.9
-- API: Express 5
-- DB: PostgreSQL + Drizzle ORM
-- Validation: Zod (`zod/v4`), `drizzle-zod`
-- API codegen: Orval (from OpenAPI spec)
-- Build: esbuild (CJS bundle)
+- Frontend: ReactJS + Vite + Tailwind CSS + Framer Motion
+- Routing: wouter
+- Smooth scroll: Lenis
+- Icons: react-icons, lucide-react
+- Fonts: Cormorant Garamond (headings), Inter (body), Cinzel (quotes)
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/author-website/src/pages/` — all 5 pages (Home, Book, Reviews, Author, Contact)
+- `artifacts/author-website/src/components/` — shared components (Navbar, Footer, GlowButton, FloatingParticles, SectionReveal, GrainOverlay)
+- `artifacts/author-website/src/index.css` — theme palette (beige + dark blood red)
+- `attached_assets/bok2_1779127987407.jpg` — book front cover (used throughout)
+- `attached_assets/bok_1779127987406.jpg` — full book spread with author photo
 
-## Architecture decisions
+## Color Palette
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- Primary Beige: #EDE8D0
+- Dark Blood Red: #6B000F
+- Wine Red: #7A0018
+- Dark Shadow Brown: #1E1515
+- Muted Gold: #C9A227
 
-## Product
+## GitHub
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+https://github.com/sufyansiddiqdd/andrew-mcclure-author-website
+
+## Contact Info (Andrew McClure)
+
+- Website: www.Andrewpoetry.com
+- Email: andrewmcclure23@yahoo.com
+- Phone: 802-522-3245
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- ReactJS + Vite for all web projects
+- Cinematic, dark elegant aesthetic
+- Balance beige warmth with dark red intensity
+- Use uploaded book cover images throughout
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
-
-## Pointers
-
-- See the `pnpm-workspace` skill for workspace structure, TypeScript setup, and package details
+- Google Fonts `@import url(...)` must be the VERY first line in index.css — before `@import "tailwindcss"`
+- Lenis is installed as a regular dependency in `artifacts/author-website`
+- `@assets/` alias maps to `attached_assets/` in vite.config.ts
